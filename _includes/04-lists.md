@@ -1,1 +1,6 @@
-Replace this with a list of your favorite things.
+* Sunny Skies  :sunny:
+* Babbling Brook :sweat_drops:
+* Animals
+  * :cow:
+  * :penguin:
+  * :whale:
