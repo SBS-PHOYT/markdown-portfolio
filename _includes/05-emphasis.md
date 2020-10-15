@@ -1,1 +1,4 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+
+* *debugging code*
+* __teamwork__
+* *learning __new__ stuff*
